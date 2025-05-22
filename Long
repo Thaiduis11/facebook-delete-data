@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Yêu cầu xóa dữ liệu người dùng</title>
+  <style>
+    body { font-family: Arial, sans-serif; padding: 40px; line-height: 1.6; background: #f9f9f9; }
+    .container { max-width: 600px; margin: auto; background: white; padding: 20px; border-radius: 8px; box-shadow: 0 0 10px #ddd; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h2>Yêu cầu xóa dữ liệu người dùng</h2>
+    <p>Nếu bạn muốn yêu cầu xóa toàn bộ dữ liệu liên quan đến tài khoản Facebook của mình được thu thập qua ứng dụng DuisTest, vui lòng liên hệ:</p>
+    <ul>
+      <li>Email: <a href="mailto:thai110504@gmail.com">thai110504@gmail.com</a></li>
+    </ul>
+    <p>Chúng tôi sẽ phản hồi yêu cầu của bạn trong vòng 7 ngày làm việc.</p>
+  </div>
+</body>
+</html>
